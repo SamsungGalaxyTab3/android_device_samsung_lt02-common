@@ -1,0 +1,1 @@
+android_device_samsung_lt02-common
